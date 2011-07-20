@@ -1,0 +1,16 @@
+*.iws
+*Db.properties
+*Db.script
+.settings
+eclipse
+stacktrace.log
+target
+.classpath
+.project
+CodeNarcReport.html
+*~
+tmp
+bin
+build
+.gradle
+out
